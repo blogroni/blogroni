@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blogroni
 - 👀 I’m have a blog
 
-- Lets check www.blogroni.html
+- Lets check www.blogroni.com
 
 <!---
 blogroni/blogroni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
